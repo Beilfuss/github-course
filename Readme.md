@@ -1,6 +1,6 @@
 # Git Course
 
-Arquivo da aula de Git e GitHub para iniciantes.
+Arquivo do curso de [Git e GitHub para iniciantes]( https://www.udemy.com/course/git-e-github-para-iniciantes/ ).
 
 Este é um repositório teste para aprender como o Git funciona.
 
